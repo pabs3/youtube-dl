@@ -133,6 +133,7 @@ from .bleacherreport import (
     BleacherReportCMSIE,
 )
 from .blinkx import BlinkxIE
+from .blogger import BloggerIE
 from .bloomberg import BloombergIE
 from .bokecc import BokeCCIE
 from .bongacams import BongaCamsIE
